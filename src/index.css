@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  margin-left: auto;
+  color: #fff;
+  font-size: 18px;
+}
+
+.register {
+  margin-left: 10px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.ant-menu-item-only-child {
+  margin-left: 50px;
+}
+
+.contentBody {
+  display: flex;
+  margin: 0 200px;
+}
+
+.listCart {
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.carditem {
+  width: 25%;
+  padding: 0 auto;
+  margin-bottom: 10px;
+}
+
+.menus {
+  margin-top: 20px;
+}
